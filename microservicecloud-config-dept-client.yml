@@ -14,7 +14,7 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: oracle.jdbc.driver.OracleDriver      # oracle驱动包
     url: jdbc:oracle:thin:@127.0.0.1:1521:server            # 数据库名称
-    username: mytest
+    username: mytest02
     password: 12345
     dbcp2:
       min-idle: 5                                           # 数据库连接池的最小维持连接数
